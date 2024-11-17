@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern":
+    [
+        "  b",
+        " b ",
+        "s  "
+    ],
+    "key":
+    {
+        "b":
+        {
+            "item": "minecraft:bone"
+        },
+        "s":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    "result":
+    {
+        "item": "unterwelt:boneblade",
+        "count": 1
+    }
+}
